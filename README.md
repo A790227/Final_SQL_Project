@@ -12,6 +12,7 @@
 
 ## Challenges 
 (discuss challenges you faced in the project)
+--- ambiguity between - unit_price (analytics) and product_price (all_sessions)
 
 ## Future Goals
 (what would you do if you had more time?)
