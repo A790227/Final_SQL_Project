@@ -1,6 +1,7 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
+
 This project involves transforming and analyzing data using SQL. The aim is to demonstrate ability in SQL by presenting a series of tasks that involve data extraction, transformation, and analysis. The project will be setting the ability to handle involved SQL queries, data manipulation, and generating meaningful insights from the data.
 Goals:
 1.	Data Extraction: Usefully extract data from one or more databases.
@@ -14,17 +15,55 @@ o	Use aggregate functions to summarize data.
 o	Perform building complex calculations and derive new metrics.
 
 
-## Process
-
-### (your step 1) Donwload tables 
-### (your step 2) Analisis the fields for all tables 
-### (your step 3) Beging to define the table structure (Fields type and Keys)
-### (your step 4) Define EDR
-### (your step 5) Beging to analisis every field (Colunnus) and identify Risk, Funcionality, Incomplete, Redundance and Ambiguity 	
+### (your step 1)
+ Download tables 
+### (your step 2) 
+ Analisis the fields for all tables 
+### (your step 3) 
+ Beginning to define the table structure (Field type and Keys)
+### (your step 4) 
+ Define EDR
+### (your step 5) 
+ Begin to analyse every field (Colunnus) and identify Risk, functionality, Incomplete, Redundance and Ambiguity 		
+### (your step 6) 
+ Define aspects to clean and transform the data (cleanin_date.md)
+### (your step 7) 
+ Define aspects to check the date and define the more accurate fields to use to avoid redundancy and missing info (QA_date.md)
+### (your step 8) 
+ Work on the file (starting_with_date.md)
+### (your step 9)
+ Work on the file (starting_with_questions.md)
+### (your step 9)
+ After work with date check again files (cleanin_date.md) and (QA_date.md) to update with new findings
+### (your step 9)
+ Finalize with fill README.md (Conclusions)
 
 ## Results
-(fill in what you discovered this data could tell you and how you used the data to answer those questions)
+According to the process applied to the date we found the following insights:
 
+- The highest level of transaction revenues by cities below to the United States also as a result to the United States
+  is the first country that has the highest level of transaction revenues followed by Sweden, Mexico and Canada.
+- The average number of products ordered from visitors in Council Bluffs city was the highest with 7589 with almost 
+  the double to compare with the second place Cork city with 3786.
+- The average number of products ordered from visitors in Montenegro was the highest with 3786 followed close by Mali with 3786
+  and Papua New Guinea with 2558
+- Pattern in the types (product categories) by the number of products ordered from visitors in  firsts cities bellow to 
+  Sports & Fitness, Fun and Lifestyle. The pattern in the types (product categories) by the number of products ordered from visitors
+  in the first cities below Apparel/Men's/Men's-T-Shirts/ ,Nest/Nest-USA/, Electronics and Shop by Brand/Google/ and below to the same city 
+  Mountain View
+- Pattern in the types (product categories) by the number of products ordered from visitors in  firsts countries bellow to 
+  Sports & Fitness, Fun and Lifestyle. The pattern in the types (product categories) by the number of products ordered from visitors
+  in  firsts cities bellow Apparel/Men's/Men's-T-Shirts/ ,Nest/Nest-USA/, Electronics and Shop by Brand/Google/ and bellow to the same country 
+  United States 
+- The top-selling products from cities are SPF-15 Slim & Slender Lip Balm with 168 units in Sunnyvale city followed for
+  Google Alpine Style Backpack with 164 units in New York City and the same product with 62 units in Chicago city.
+- The top-selling product from countries is the Google Alpine Style Backpack with 227 units in the United States (This result should be inaccurate 
+  because more than 90 of the field products_sould from the analysis are empty. 
+- the impact of revenue generated for the three first cities represents almost 70% of the earns for the company and the impact of revenue generated for
+  United States represent more than 90 % of the company revenue.
+
+
+ 
 ## Challenges 
 (discuss challenges you faced in the project)
 --- ambiguity between - unit_price (analytics) and product_price (all_sessions)
