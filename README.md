@@ -62,11 +62,15 @@ According to the process applied to the date we found the following insights:
 - the impact of revenue generated for the three first cities represents almost 70% of the earns for the company and the impact of revenue generated for
   United States represent more than 90 % of the company revenue.
 
-
- 
-## Challenges 
+# Challenges 
 (discuss challenges you faced in the project)
---- ambiguity between - unit_price (analytics) and product_price (all_sessions)
+- The information on the project was redundancy information, lack of information, wrong information and ambiguous information
+- the lack of information is a relevant topic on the main tables
+- multiple temporal tables to try to obtain relevant information
+- I consider relevant to know relevant information for example windows time or what kind of data we will expend on the tables 
 
 ## Future Goals
 (what would you do if you had more time?)
+- I will make more QA processes to ensure as much as possible the result. Considering the lack of information and redundant fields in mutiples tables
+- Go deep into cleaning process looking for essential information and deleting useless fields and date 
+- Defining the table structure to normalize the table information and ensure optimal process time 
