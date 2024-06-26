@@ -18,13 +18,13 @@ o	Perform building complex calculations and derive new metrics.
 ### (your step 1)
  Download tables 
 ### (your step 2) 
- Analisis the fields for all tables 
+ Analysis the fields for all tables 
 ### (your step 3) 
  Beginning to define the table structure (Field type and Keys)
 ### (your step 4) 
  Define EDR
 ### (your step 5) 
- Begin to analyse every field (Colunnus) and identify Risk, functionality, Incomplete, Redundance and Ambiguity 		
+ Begin to analyst every field (Columns) and identify Risk, functionality, Incomplete, Redundance and Ambiguity 		
 ### (your step 6) 
  Define aspects to clean and transform the data (cleanin_date.md)
 ### (your step 7) 
